@@ -6,7 +6,7 @@ from nltk.stem import WordNetLemmatizer
 from scipy.stats import percentileofscore
 from awesome_print import ap 
 
-stopwords = set(open('stopwords.txt').read().splitlines())
+stopwords = set(open('../data/stopwords.txt').read().splitlines())
 punkt = set(string.punctuation)
 lemmatizer = WordNetLemmatizer()
 
