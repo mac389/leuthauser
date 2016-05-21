@@ -1,5 +1,7 @@
 # leuthauser
 
+This project aims to identify whether the patterns of writing of students reflect the evaluations of attendings in a fourth year emergency medicine clerkship. Our underlying conceptual hypothesis is that students reflect their attitude to learning in their communication and that attendings evalaute medical students mostly on their attitude. (This assumes a minimal ammount of medical knowledge. Actual clinical knowledge was assessed on another test.)
+
 We used Biterm Topic Modeling (Yan et al, 2013) to identify combinations of words that occur in the same context. 
 
 The model calculates three matrices:
