@@ -8,4 +8,4 @@ Supporting material for Chary et al. (2015)
      
 
 ##Analysis
-		sh ./run-analysis.sh
+Comments are stored in `comments.csv`
